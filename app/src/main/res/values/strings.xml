@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson4</string>
+    <string name="put_your_text">put your text</string>
+    <string name="there_will_be_some_text">There will be some text</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+</resources>
